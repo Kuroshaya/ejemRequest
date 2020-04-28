@@ -2,9 +2,9 @@ Creando el archivo Readme.md
 
 Primer Ejemplo de Pull Requests
 
-Segundo ejemplo de Pull requets
+Segundo Ejemplo de Pull Requests
 
-Tercer ejemplo de pull requests
+Tercer Ejemplo de Pull Requests
 
-Cuarto ejemplo de pull requests
+Cuarto Ejemplo de Pull Requests
 
